@@ -2,7 +2,7 @@
 
 ## Summary
 
-This repository contains a Jupyter Notebook that demonstrates the process for implementing an email filtering system for customers of an Internet Service Provider (ISP). The Notebook imports a dataset that contains information about emails, with two possible classifications: spam and not spam. The notebook implements two supervised machine learning (ML) models (Logistic Regression and Random Forest) that accurately detect spam emails so they can be filtered out of customers' inboxes.
+This repository hosts a Jupyter Notebook showcasing an advanced email filtering system for an Internet Service Provider (ISP). The notebook leverages machine learning to analyze email characteristics and classify messages as spam or legitimate. Using supervised learning models—specifically Logistic Regression and Random Forest—the system develops robust algorithms capable of accurately identifying and filtering out spam emails, enhancing customers' email experience by protecting their inboxes from unwanted communications.
 
 ---
 
